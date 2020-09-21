@@ -6,3 +6,5 @@ Nexys 4 DDR Artix-7
 * 2.Median filter to denoise
 * 3.Sobel detect
 * 4.erode and dilate
+
+基于A7的图像边缘检测
